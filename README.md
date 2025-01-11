@@ -3,16 +3,16 @@ Hi there 👋
 🚧🚧🚧
 <br/>
 <br/>
-<a href="https://github.com/fede1109/github-readme-stats">
+<a href="https://github.com/FedeDiazDev/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fede1109&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&show_icons=true" />
 </a>
-<a href="https://github.com/fede1109/convoychat">
+<a href="https://github.com/FedeDiazDev/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fede1109&layout=compact&langs_count=8&card_width=320&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627" />
 </a>
 <br/>
 <br/>
 <br/>
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fede1109&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&hide_title=true&hide_border=true&show_icons=true)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FedeDiazDev&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&hide_title=true&hide_border=true&show_icons=true)
 
 <!--
 **Fede1109/Fede1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
