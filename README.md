@@ -12,6 +12,7 @@ Hi there 👋
 <br/>
 <br/>
 <br/>
+<!--
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fede1109&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&hide_title=true&hide_border=true&show_icons=true)
 
 <!--
