@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning copywriting.
 - 🔭 I’m currently working on ft_transcendence at 42.
-- ⚡ Fun fact: When I'm not coding, I'm crafting copy that sells — and when I'm not doing that, you’ll probably find me on the pitch chasing a ball.
+- ⚡ Fun fact: When I'm not coding, I'm crafting copy that sells — and when I'm not doing that, you’ll probably find me on the pitch chasing a ball ⚽.
 - 📫 How to reach me: federicojose2000@gmail.com
