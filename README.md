@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/FedeDiazDev/github-readme-stats">
+<!-- <a href="https://github.com/FedeDiazDev/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDiazDev&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&show_icons=true" />
 </a>
 <a href="https://github.com/FedeDiazDev/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedeDiazDev&layout=compact&langs_count=8&card_width=320&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedeDiazDev&layout=compact&langs_count=8&card_width=320&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627" /> -->
 </a>
 <br/>
 <br/>
